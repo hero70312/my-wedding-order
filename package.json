@@ -1,0 +1,11 @@
+{
+  "name": "my-wedding",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hero70312/my-wedding-order.git",
+  "author": "Darren Chou <darren.chou@getoken.io>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
